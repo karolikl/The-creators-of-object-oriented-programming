@@ -1,4 +1,4 @@
-## Notes from Simula Begin ## 
+# Notes from Simula Begin
 
 Birtwistle, Graham M., Ole-Johan Dahl, Bjørn Myhrhaug, and Kristen Nygaard. Simula begin. 2. ed. Lund (Sweden): Studentlitteratur, 1980. Print.
 
@@ -14,7 +14,7 @@ Birtwistle, Graham M., Ole-Johan Dahl, Bjørn Myhrhaug, and Kristen Nygaard. Sim
 
 - *A heading identifying the kind of object*
 - *A data structure*
-- *An action sequence*
+- *An action sequence*"
 
 Page 26
 
