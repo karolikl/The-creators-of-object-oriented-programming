@@ -2,7 +2,9 @@
 
 Bubenko, Janis, John Impagliazzo, and Arne Sølvberg. History of Nordic computing IFIP WG9.7 First Working Conference on the History of Nordic Computing (HiNC1), June 16-18, 2003, Trondheim, Norway. New York: Springer, 2005. Print.
 
-## The pioneer era in Norwegian scientific computing (1948-1962)
+## The pioneer era in Norwegian scientific computing (1948-1962) 
+
+**By: Drude Berntsen, director of NCC 1970-1989. drudeb@broadpark.no**
 
 FFI ordered a Mercury machine named FREDERIC from Ferranti Ltd in 1954. One of the biggest at the time. 
 
