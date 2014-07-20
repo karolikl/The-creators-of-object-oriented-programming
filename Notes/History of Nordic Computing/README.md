@@ -27,3 +27,9 @@ FFI ordered a Mercury machine named FREDERIC from Ferranti Ltd in 1954. One of t
 - Den forunderlige reisen gjennom datahistorien. Arild Haraldsen 1999
 - Datahistorien ved Universitetet i Oslo - Fra begynnelsen og til ut i sytiårene
 - Norsk datahistorie, Ingeniørforlaget/Teknisk Ukeblad 1989
+
+## Research and curricula development at Norwegian universities
+
+**By: Terje O. Espelid, Arne Maus, Svein Nordbotten, Knut Skog and Arne Sølvberg**
+
+"*At the University of Oslo, the first professor was Ole Johan Dahl. In 1968 he moved to the University from the Norwegian Computing Center (Norsk Regnesentral) where he had been inventing the first object oriented programming language Simula together with Kristen Nygaars. For this, they shared the John von Neumann medal in 2002 and the A.M. Turing award in 2001. [...] Dahl's work on programming and compiler technology was very influential in forming the scientific profile of the curriculum, and on teaching of computer science as a whole in Norway.*" Page 138
