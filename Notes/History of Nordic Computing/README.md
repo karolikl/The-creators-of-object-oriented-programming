@@ -33,3 +33,11 @@ FFI ordered a Mercury machine named FREDERIC from Ferranti Ltd in 1954. One of t
 **By: Terje O. Espelid, Arne Maus, Svein Nordbotten, Knut Skog and Arne Sølvberg**
 
 "*At the University of Oslo, the first professor was Ole Johan Dahl. In 1968 he moved to the University from the Norwegian Computing Center (Norsk Regnesentral) where he had been inventing the first object oriented programming language Simula together with Kristen Nygaars. For this, they shared the John von Neumann medal in 2002 and the A.M. Turing award in 2001. [...] Dahl's work on programming and compiler technology was very influential in forming the scientific profile of the curriculum, and on teaching of computer science as a whole in Norway.*" Page 138
+
+"*One might think that the inventors of object orientation, Ole Johan Dahl and Kristen Nygaard would continue their research in that direction, but only partly so. First, the term "object orientation" did not yet exist and secondly, they thought Simula was only one among many new promising programming languages at that time. Dahl was however eager to demonstrate to his students the ability of the class concept to model lists, trees and graphs. He also organized graduate courses in discrete simulation using Simula. However, only after Allen Kay had designed Smalltalk (heavily influenced by Simula) did the term "object-orientation" appear. Ole-Johan Dahl, after having successfully assisted the implementation on Simula on the CDC 33000, and introduced Simula into his courses, went on to formal specification and verification of programs, which he by and large continued with for the rest of his life. The proof system Abel and the book "Verifiable programmin" are here the main results. Kristen Nygaard designed two new languages, Delta for the specification of systems (not machine compilable) and Beta, intended to be a more well structures, clean, orthogonal, object oriented language.*" Page 146.
+
+##The birth of Simula
+
+**By: Stein Krogdahl**
+
+This whole presentation is of use, so instead of quoting it here I've made a photocopy.
