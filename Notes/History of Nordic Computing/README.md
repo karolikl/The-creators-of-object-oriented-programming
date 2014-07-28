@@ -38,6 +38,25 @@ FFI ordered a Mercury machine named FREDERIC from Ferranti Ltd in 1954. One of t
 
 ##The birth of Simula
 
-**By: Stein Krogdahl**
+**By: Stein Krogdahl, University of Oslo, steinkr@ifi.uio.no**
 
 This whole presentation is of use, so instead of quoting it here I've made a photocopy.
+
+## From binary strings to visual programming
+
+**By: Knut Skog**
+
+"*With SIMULA 67, a new dimension - the dimension of object orientation (OO) - was added to the art of programming. SIMULA was originally designed as a language for discrete event simulation, but was soon regarded as a general purpose programming language. [...] SIMULA never became widely used, however the language has been highly influential on programming methodology and modern systems engineering. It implemented the mechanics of OO and paved the way for a new systems design philosophy. It invented the notion and mechanics of the class concept with inheritance and polymorphism, object instantiations and dynamic heap allocation. In this is broke the traditional sequantial way of reasoning on how the computer programs should be organized and demonstrated how to 'think and write' in terms of parallel event-driven tasks. It formed what to day is the foundation for modelling of computer applications at large.*" Page 302
+
+"*[...] Bjørn Myrhaug, a junior member of the SIMULA team, deserves recognition for his pioneering implementation work on heap allocation and 'garbage' collection.*" Page 302
+
+"*Alan Kay first recognized the real substance and importance of the new model and associated programming concepts that SIMULA brought in the outside world (US). The history of science is full of cases where the implication of scientific research is not fully rexognized in its time. I dear say that even Kristen Nygaard, who was a man not know or muting his opinions, did not realize the importance and impact of their work at the time it was done.*" Page 303
+
+"*There is a straight line from SIMULA to the unified modelling language (UML) of today. However, probably the most fundamental effect of the language if realizing that it led to to the most influential notion of computer science 'Abstract Data Types (ADT)', the basic building block of computer programming. The SIMULA class is the concrete implementation of ADT and te truest reflection of the formal definition of the word data.*" Page 303
+
+"*A breakthrough of a philosophical nature - how to reason and how to supprt this reasoning with programming constructs - is not of will never be recognized by commercial measures. The conceptual and philosophical contribution to computer science made by Nygaard and Dahl in the middle of the 1960s is in my opinion equally important as von Neumann's in the middle of the 1940s.*" Page 304
+
+**References that should be checked out:**
+
+- http://java.sun.com/people/jag/SimulaHistory.html (Broken link)
+
