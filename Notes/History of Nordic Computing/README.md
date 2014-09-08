@@ -58,5 +58,5 @@ This whole presentation is of use, so instead of quoting it here I've made a pho
 
 **References that should be checked out:**
 
-- http://java.sun.com/people/jag/SimulaHistory.html (Broken link)
+- https://web.archive.org/web/20000815110924/http://java.sun.com/people/jag/SimulaHistory.html
 
